@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-Palette-develop.flake = false;
+  inputs.src-Palette-develop.ref   = "refs/heads/develop";
   inputs.src-Palette-develop.owner = "momeemt";
-  inputs.src-Palette-develop.ref   = "develop";
   inputs.src-Palette-develop.repo  = "Palette";
   inputs.src-Palette-develop.type  = "github";
   
