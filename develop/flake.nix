@@ -11,6 +11,7 @@
   inputs.src-Palette-develop.ref   = "refs/heads/develop";
   inputs.src-Palette-develop.owner = "momeemt";
   inputs.src-Palette-develop.repo  = "Palette";
+  inputs.src-Palette-develop.dir   = "";
   inputs.src-Palette-develop.type  = "github";
   
   inputs."nigui".owner = "nim-nix-pkgs";

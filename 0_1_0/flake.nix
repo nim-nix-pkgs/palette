@@ -11,6 +11,7 @@
   inputs.src-Palette-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-Palette-0_1_0.owner = "momeemt";
   inputs.src-Palette-0_1_0.repo  = "Palette";
+  inputs.src-Palette-0_1_0.dir   = "";
   inputs.src-Palette-0_1_0.type  = "github";
   
   inputs."nigui".owner = "nim-nix-pkgs";

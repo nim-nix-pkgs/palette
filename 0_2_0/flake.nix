@@ -11,6 +11,7 @@
   inputs.src-Palette-0_2_0.ref   = "refs/tags/0.2.0";
   inputs.src-Palette-0_2_0.owner = "momeemt";
   inputs.src-Palette-0_2_0.repo  = "Palette";
+  inputs.src-Palette-0_2_0.dir   = "";
   inputs.src-Palette-0_2_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
