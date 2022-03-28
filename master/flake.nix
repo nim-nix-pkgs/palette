@@ -11,7 +11,6 @@
   inputs.src-Palette-master.ref   = "refs/heads/master";
   inputs.src-Palette-master.owner = "momeemt";
   inputs.src-Palette-master.repo  = "Palette";
-  inputs.src-Palette-master.dir   = "";
   inputs.src-Palette-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
