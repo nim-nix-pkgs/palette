@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "v1_5_23",
-        "lastModified": 1651917786,
-        "narHash": "sha256-iuuvLka4OYQfxEGWAvXG95W2qO8754zCHAVlmF/R92A=",
+        "lastModified": 1652390935,
+        "narHash": "sha256-LqIoix7rbsMLPnIJRhfNbmrYqliLOHnqiaA1qx+Ri48=",
         "owner": "nim-nix-pkgs",
         "repo": "cligen",
-        "rev": "7f43944b33da6bedef706460e55d07a282854090",
+        "rev": "2d7e60cfadfca7caa08e20caedd319dc6c206490",
         "type": "github"
       },
       "original": {
@@ -56,19 +56,19 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "src-nigui-v0_2_5": "src-nigui-v0_2_5"
+        "src-nigui-v0_2_6": "src-nigui-v0_2_6"
       },
       "locked": {
-        "dir": "v0_2_5",
-        "lastModified": 1651918171,
-        "narHash": "sha256-RB+Oc5nOB83AxIrnC/7zCXZVV1Y0efC//4587J1LkyI=",
+        "dir": "v0_2_6",
+        "lastModified": 1652391282,
+        "narHash": "sha256-LzCCrmzempaqBb/f74q2v1lkuAUppulJIqijMVixrSs=",
         "owner": "nim-nix-pkgs",
         "repo": "nigui",
-        "rev": "87a94343daad6651b6f9525c4721f997071f68eb",
+        "rev": "b2e4cbabbd71c4db1c57d4194df0cc22408895fc",
         "type": "github"
       },
       "original": {
-        "dir": "v0_2_5",
+        "dir": "v0_2_6",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "nigui",
@@ -129,19 +129,19 @@
         "type": "github"
       }
     },
-    "src-nigui-v0_2_5": {
+    "src-nigui-v0_2_6": {
       "flake": false,
       "locked": {
-        "lastModified": 1611959604,
-        "narHash": "sha256-GqFHHEVIfF8t7I3v4lN2YOqSwvgFYCjyfq2/E2hHKRM=",
+        "lastModified": 1652103164,
+        "narHash": "sha256-RSW8NLoZvR33aenm/zp6vmAQ2M6NApwFOyzkCTGyfoY=",
         "owner": "trustable-code",
         "repo": "NiGui",
-        "rev": "3150d8ea213cdae3865980c3dc30f3c3ffb820ca",
+        "rev": "216038ac210e2c09c842114611fd1caff8cde9e6",
         "type": "github"
       },
       "original": {
         "owner": "trustable-code",
-        "ref": "refs/tags/v0.2.5",
+        "ref": "refs/tags/v0.2.6",
         "repo": "NiGui",
         "type": "github"
       }
